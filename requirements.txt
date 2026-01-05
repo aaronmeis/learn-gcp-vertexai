@@ -1,0 +1,21 @@
+# Vertex AI and Google Cloud dependencies
+google-cloud-aiplatform>=1.38.0
+google-cloud-dialogflow-cx>=1.20.0
+vertexai>=1.38.0
+
+# Google Generative AI (Gemini API - simpler alternative)
+google-generativeai>=0.3.0
+
+# Authentication
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0  # For Ollama-style local option
+
+# For notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+

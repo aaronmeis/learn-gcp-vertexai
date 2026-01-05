@@ -1,0 +1,2 @@
+Hello World AI Agent project demonstrating Vertex AI Agent Builder, Gemini API, and Ollama - includes local and cloud deployment examples with Jupyter notebooks
+
