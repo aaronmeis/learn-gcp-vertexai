@@ -2,6 +2,8 @@
 
 > **Hello World AI Agent project demonstrating Vertex AI Agent Builder, Gemini API, and Ollama - includes local and cloud deployment examples with Jupyter notebooks**
 
+![Overview](./unnamed.png)
+
 This project demonstrates how to create and deploy a "Hello World" agent using three different approaches: Vertex AI Agent Builder (full GCP), Gemini API (simple cloud), and Ollama (truly local). Includes Python scripts, Jupyter notebooks, and deployment guides.
 
 ## 📖 Documentation Guide
@@ -355,4 +357,5 @@ jupyter lab
 ## 📝 License
 
 This project is for educational purposes.
+
 
